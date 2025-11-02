@@ -23,14 +23,14 @@ and having this website
 [![logo2](https://xalya.neocities.org/oldlogo.png)
 [![logo3](https://xalya.neocities.org/logoold.png)
 and making these games featuring a character named pizzabox!
-[![pizzabox 1](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox1.mp4)
-[![pizzabox 2](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox2.mp4)
-[![pizzabox 3](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox3.mp4)
-[![pizzabox CD](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxCD.mp4)
-[![100 Dims VS 1 Pizzabox](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxFIGHT.mp4)
-[![pizzabox pre](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxPRE.mp4)
+[![pizzabox 1](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox1.png)
+[![pizzabox 2](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox2.png)
+[![pizzabox 3](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox3.png)
+[![pizzabox CD](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxCD.png)
+[![100 Dims VS 1 Pizzabox](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxFIGHT.png)
+[![pizzabox pre](https://ia903409.us.archive.org/16/items/pizzabox3/pizzaboxPRE.png)
 that's all for now
-[![thing](https://ia903409.us.archive.org/16/items/pizzabox3/missing.mp4)
+[![thing](https://ia903409.us.archive.org/16/items/pizzabox3/missing.png)
 
 
 
