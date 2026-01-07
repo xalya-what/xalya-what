@@ -9,7 +9,7 @@ you might know me probably for creating these characters:
 [![mswoman](https://xalya.neocities.org/mswoman.png)
 [![ultranus](https://xalya.neocities.org/scrapped.png)
 [![ti_project](https://xalya.neocities.org/ti.png)
-[![zoomaniac_project](https://xalya.neocities.org/zoomaniac)
+[![zoomaniac_project](https://xalya.neocities.org/zoomaniac.png)
 [![dim](https://xalya.neocities.org/dim0.png)
 [![7erf7w66nsda706n0n7en678da608f6n07an60d6fa7an6adfn6a07f6n6nfd56s6dnf](https://xalya.neocities.org/dim1.png)
 and random games
@@ -18,7 +18,6 @@ and having this website
 [![logo1](https://xalya.neocities.org/logo.png)
 [![logo2](https://xalya.neocities.org/logo_alpha.png)
 [![logo3](https://xalya.neocities.org/logo_beta.png)
-[![ok](https://xalya.neocities.org/index.html)
 and making these games featuring a character named pizzabox!
 [![pizzabox 1](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox1.png)
 [![pizzabox 2](https://ia903409.us.archive.org/16/items/pizzabox3/pizzabox2.png)
